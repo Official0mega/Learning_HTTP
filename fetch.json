@@ -1,4 +1,0 @@
-### HTTP Using FETCH API
-
-const response = await fetch(url, settings)
-const responseData = await response.json()
